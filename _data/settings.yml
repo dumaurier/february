@@ -3,4 +3,4 @@ domainname: feb2019.netlify.com
 twitter: jshvgt
 opengraph: false
 webmention: true
-bootstrap: true
+bootstrap: false
