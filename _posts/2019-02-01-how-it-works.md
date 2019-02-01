@@ -5,7 +5,7 @@ layout: posts
 categories: blog
 abstract: An overview of how this repo works.
 author: Josh Vogt
-permalink: '/posts/:categories/:title/'
+permalink: '/posts/:title/'
 ---
 ## This is a starter project for Jekyll powered sites.
 
